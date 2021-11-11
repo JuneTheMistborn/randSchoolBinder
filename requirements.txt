@@ -1,6 +1,5 @@
 numpy
 Tk
 matplotlib
-tkinter
 re
 PIL
